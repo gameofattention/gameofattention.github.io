@@ -1,0 +1,5 @@
+[book]
+authors = ["siddharthsabron"]
+language = "en"
+src = "src"
+title = "Learning Deep Learning"
