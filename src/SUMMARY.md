@@ -1,6 +1,6 @@
 # Summary
 
-[Book Overview](./book-overview.md)
+[Book Overview](./overview.md)
 
 ---
 
