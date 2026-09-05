@@ -3,3 +3,7 @@ authors = ["siddharthsabron"]
 language = "en"
 src = "src"
 title = "Learning Deep Learning"
+
+[output.html]
+default-theme = "rust"
+preferred-dark-theme = "rust"
